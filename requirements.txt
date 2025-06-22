@@ -6,6 +6,4 @@ plotly
 requests
 # If applicable:
 # xgboost
-# lightgbm
-# catboost
 python_version >= 3.8
